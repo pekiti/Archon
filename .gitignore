@@ -1,7 +1,7 @@
 # Folders
 workbench
 __pycache__
-venv
+.venv
 .langgraph_api
 
 # Files
